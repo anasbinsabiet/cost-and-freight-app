@@ -1,0 +1,8 @@
+[07-Nov-2020 05:52:54 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/icmfreightcom/public_html/db.php on line 9
+[07-Nov-2020 07:58:43 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/icmfreightcom/public_html/db.php on line 9
+[07-Nov-2020 07:59:17 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/icmfreightcom/public_html/db.php on line 9
+[07-Nov-2020 07:59:19 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/icmfreightcom/public_html/db.php on line 9
+[07-Nov-2020 07:59:30 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/icmfreightcom/public_html/db.php on line 9
+[07-Nov-2020 07:59:42 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/icmfreightcom/public_html/db.php on line 9
+[07-Nov-2020 08:00:08 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/icmfreightcom/public_html/db.php on line 9
+[07-Nov-2020 08:00:46 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/icmfreightcom/public_html/db.php on line 9

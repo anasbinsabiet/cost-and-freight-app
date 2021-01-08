@@ -1,0 +1,140 @@
+.table>tbody>tr.delay>td, .table>tbody>tr.delay>th, .table>tbody>tr>td.delay, .table>tbody>tr>th.delay, .table>tfoot>tr.delay>td, .table>tfoot>tr.delay>th, .table>tfoot>tr>td.delay, .table>tfoot>tr>th.delay, .table>thead>tr.delay>td, .table>thead>tr.delay>th, .table>thead>tr>td.delay, .table>thead>tr>th.delay {
+	background-color: #e5d8f3;
+}
+.pad-15{
+	padding:15px !important;
+}
+.label-delay {
+    background-color: #8327d4;
+}
+.skin-blue .treeview-menu>li.active>a, .skin-blue .treeview-menu>li>a:hover{
+	background-color: #11425c;
+}
+
+.error {
+	color: red;
+}
+
+.error-message {
+	color: red;
+	font-style: italic;
+	margin-bottom: 1em;
+}
+.table thead.bg-sky {
+    background-color: #d5e7f3;
+}
+
+.invoice{
+	margin: 15px
+}
+
+.currency-selector {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  padding-left: .5rem;
+  border: 0;
+  background: transparent;
+  
+  -webkit-appearance:none;
+  -moz-appearance:none;
+  appearance:none;
+  
+  background: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='1024' height='640'><path d='M1017 68L541 626q-11 12-26 12t-26-12L13 68Q-3 49 6 24.5T39 0h952q24 0 33 24.5t-7 43.5z'></path></svg>") 90%/12px 6px no-repeat;
+  
+  font-family: inherit;
+  color: inherit;
+}
+
+.currency-amount {
+  text-align: right;
+}
+
+.currency-addon {
+  width: 6em;
+  text-align: left;
+  position: relative;
+}
+td.text-right input.form-control, input#total, input#exp_grand_total {
+    text-align: right;
+}
+div#ui-datepicker-div{
+  position: absolute;
+    top: 100%;
+    left: 0;
+    z-index: 1000;
+    display: none;
+    float: left;
+    min-width: 160px;
+    padding: 0px 10px;
+    margin: 2px 0 0;
+    font-size: 10px;
+    text-align: center;
+    list-style: none;
+    background-color: #fff;
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box;
+    border: 1px solid #ccc;
+    border: 1px solid rgba(0,0,0,.15);
+    border-radius: 4px;
+    -webkit-box-shadow: 0 6px 12px rgba(0,0,0,.175);
+    box-shadow: 0 6px 12px rgba(0,0,0,.175);
+}
+div#ui-datepicker-div td {
+    padding: 5px;
+    text-align: center;
+    width: 20px;
+    height: 20px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    border: none;
+}
+div#ui-datepicker-div tr {
+        padding: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    direction: ltr;
+  }
+.ui-datepicker-header.ui-widget-header.ui-helper-clearfix.ui-corner-all span {
+    padding: 0px 10px;
+    cursor: pointer;
+}
+a.ui-state-default.ui-state-active {
+    background-color: #fdf59a;
+    padding: 5px;
+}
+.invoice .table-bordered>tbody>tr>td {
+    border: 1PC SOLID TRANSPARENT;
+    line-height: 0.5px!important;
+    padding: 5px!important;
+}
+.page-header {
+    margin: 10px 0 20px !important;
+}
+.invoice .footer, .invoice .footer-info {
+  display: none;
+}
+.col-md-8.ml-18{
+  margin-left: 18% !important;
+}
+.form-control {
+    font-size: 10px !important;
+}
+.invoice .table td {
+    padding: 5px!important;
+}
+span.select2.select2-container.select2-container--default {
+    width: 100% !important;
+}
+label, th, b, strong, td, .h5, h5, h5.heading, .select2-container .select2-selection--single .select2-selection__rendered, .btn-group-xs>.btn, .btn-xs {
+    font-size: 10px !important;
+}
+@media only screen and (max-width: 768px) {
+    .main-footer {
+      text-align: center;
+  }
+}

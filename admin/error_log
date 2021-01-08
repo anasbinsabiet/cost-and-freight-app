@@ -1,0 +1,8 @@
+[30-Oct-2020 12:46:53 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zaimahtechcom/icm.zaimahtech.com/db.php on line 9
+[30-Oct-2020 12:46:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zaimahtechcom/icm.zaimahtech.com/admin/role_map.php:11) in /home/zaimahtechcom/icm.zaimahtech.com/dashboard/navbar.php on line 6
+[07-Nov-2020 03:41:06 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/icmfreightcom/public_html/db.php on line 9
+[07-Nov-2020 03:41:19 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/icmfreightcom/public_html/db.php on line 9
+[07-Nov-2020 04:40:09 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/icmfreightcom/public_html/db.php on line 9
+[07-Nov-2020 07:36:26 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/icmfreightcom/public_html/db.php on line 9
+[07-Nov-2020 07:36:29 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/icmfreightcom/public_html/db.php on line 9
+[07-Nov-2020 07:38:10 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/icmfreightcom/public_html/db.php on line 9

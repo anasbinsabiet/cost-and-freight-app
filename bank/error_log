@@ -1,0 +1,17 @@
+[30-Oct-2020 12:54:43 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zaimahtechcom/icm.zaimahtech.com/db.php on line 9
+[30-Oct-2020 12:54:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zaimahtechcom/icm.zaimahtech.com/bank/bank.php:11) in /home/zaimahtechcom/icm.zaimahtech.com/dashboard/navbar.php on line 6
+[30-Oct-2020 12:55:22 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zaimahtechcom/icm.zaimahtech.com/db.php on line 9
+[30-Oct-2020 12:55:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zaimahtechcom/icm.zaimahtech.com/bank/bank.php:11) in /home/zaimahtechcom/icm.zaimahtech.com/dashboard/navbar.php on line 6
+[07-Nov-2020 03:47:34 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/icmfreightcom/public_html/db.php on line 9
+[16-Nov-2020 13:39:28 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/icmfreightcom/public_html/dashboard/navbar.php on line 3
+[16-Nov-2020 13:39:28 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/icmfreightcom/public_html/dashboard/navbar.php on line 3
+[16-Nov-2020 13:39:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/icmfreightcom/public_html/bank/bank_type_edit.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/icmfreightcom/public_html/bank/bank_type_edit.php on line 21
+[16-Nov-2020 13:39:51 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/icmfreightcom/public_html/dashboard/navbar.php on line 3
+[16-Nov-2020 13:39:51 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/icmfreightcom/public_html/dashboard/navbar.php on line 3
+[16-Nov-2020 13:39:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/icmfreightcom/public_html/bank/bank_type_edit.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/icmfreightcom/public_html/bank/bank_type_edit.php on line 21
